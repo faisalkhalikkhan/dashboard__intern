@@ -1,0 +1,28 @@
+.applications {
+  margin-top: 40px;
+  padding: 15px;
+  text-align: center;
+  color: #f4f4f4;
+  border-radius: 20px 20px 0px 0px;
+  border: 1px solid lightgray;
+}
+
+.applications > img {
+  margin-top: 15px;
+  width: 150px;
+}
+
+.list {
+  background-color: rgb(43, 42, 42);
+  border-radius: 20px 20px 0px 0px;
+  height: 100vh;
+  padding: 10px;
+}
+
+.list__top {
+  display: flex;
+  justify-content: space-between;
+}
+.list__top > Typograpy {
+  margin-top: 10px !important;
+}

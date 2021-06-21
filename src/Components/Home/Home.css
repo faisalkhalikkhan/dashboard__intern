@@ -1,0 +1,115 @@
+.home__info {
+  display: flex;
+  position: absolute;
+  right: 10px;
+  color: #f4f4f4;
+  padding: 5px;
+}
+
+.home__info > span {
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.dashboard {
+  font-size: large;
+}
+
+.dashboard__title {
+  color: #f4f4f4;
+  margin-top: 25px;
+  margin-left: 25px;
+  font-size: small;
+}
+
+.homme {
+  display: flex;
+}
+
+.dashboard__title > p {
+  font-size: x-large;
+}
+
+.special__text {
+  color: #00a5c2;
+}
+
+.input__add {
+  display: flex;
+  position: absolute;
+  right: 25px;
+}
+
+.inputBox {
+  display: flex;
+  padding: 5px;
+  margin-left: 25px;
+  color: #f4f4f4;
+}
+
+.inputBox > input {
+  border: none;
+  background: transparent;
+}
+
+.home__contant {
+  margin: 15px;
+  padding: 15px;
+  margin-top: 10px;
+}
+
+.card {
+  margin-top: 15px;
+  width: 200px;
+  height: 100px;
+  border-radius: 20px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-right: 25px;
+}
+
+.card__top {
+  display: flex;
+  justify-content: space-between;
+  color: #f4f4f4;
+}
+.card__top > p {
+  font-size: small;
+}
+
+.text__amount {
+  font-size: x-large;
+  color: #f4f4f4;
+}
+
+.inner__card {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.micro__text {
+  font-size: smaller;
+  color: rgb(183, 0, 255);
+}
+.inner__card__progress {
+  margin-right: 15px;
+}
+
+.home__contant {
+  display: flex;
+}
+
+.micro__text__red {
+  color: rgb(236, 14, 99);
+}
+
+.blue {
+  color: #f4f4f4;
+  background-color: #00a5c2;
+}
+
+.applicationsTab {
+  justify-content: center;
+  align-items: center;
+}

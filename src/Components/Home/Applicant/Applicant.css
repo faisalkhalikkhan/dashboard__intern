@@ -1,0 +1,24 @@
+.applicant {
+  display: flex;
+  margin-top: 15px;
+}
+
+.applicant__left {
+  display: flex;
+  text-align: justify;
+  justify-content: space-evenly;
+}
+
+.name__applicant {
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+.name__applicant > p {
+  font-size: 8px;
+}
+
+.applicant__right {
+  display: flex;
+  justify-content: space-evenly;
+}

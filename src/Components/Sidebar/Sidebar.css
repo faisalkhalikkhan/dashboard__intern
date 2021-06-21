@@ -1,0 +1,33 @@
+.sidebar {
+  border-right: 1px solid lightgray;
+}
+
+.logo {
+  margin: 10px;
+  margin-bottom: 25px;
+}
+.active__btn {
+  padding: 10px;
+  color: #00a5c2;
+  border-right: 4px solid #00a5c2;
+}
+.sidebar__btn {
+  padding: 10px;
+  color: #f4f4f4;
+}
+
+.sidebar__btn:hover {
+  color: #00a5c2;
+  border-right: 4px solid #00a5c2;
+}
+
+.settings__btn {
+  padding: 10px;
+  position: absolute;
+  bottom: 10px;
+  color: #f4f4f4;
+}
+.settings__btn:hover {
+  color: #00a5c2;
+  border-right: 4px solid #00a5c2;
+}
